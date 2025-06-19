@@ -1,0 +1,4 @@
+[2024-Dec-22 21:58:28.845 +13:00][ 1712: 4892][info ] Logging initialized
+[2024-Dec-22 21:58:29.421 +13:00][ 1712: 4892][info ] RtlExitUserProcess hook successful
+[2024-Dec-22 21:58:29.422 +13:00][ 1712: 4892][info ] Removed 1 old WER discord registry entries
+[2024-Dec-22 21:58:29.422 +13:00][ 1712: 4892][info ] InitializeWERHandler success

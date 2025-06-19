@@ -1,0 +1,3 @@
+fix when draging it changed back to red that slider makeit syncs with the colors 
+
+at the color changing thing ui
