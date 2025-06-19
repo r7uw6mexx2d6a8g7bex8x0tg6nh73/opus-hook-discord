@@ -51,6 +51,3 @@ Contributions and pull requests are welcome! Open an issue or submit a PR with y
 
 ---
 
-## 📄 License
-
-Specify your license here.
