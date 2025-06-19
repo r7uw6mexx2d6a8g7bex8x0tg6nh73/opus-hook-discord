@@ -1,6 +1,6 @@
 # opus-hook-discord
 
-> A modded version of Discord's Opus internals, delivering stereo audio without gain limits.
+> A modded version of Discord's Opus internals, delivering stereo audio without gain limits (Windows only).
 
 ---
 
@@ -19,7 +19,7 @@ Pre-built binaries are available in the `builds/` folder.
 
 ---
 
-## 📥 Installation
+## 📥 Installation (Windows)
 
 1. **Download or clone** this repository:
 
@@ -28,27 +28,26 @@ Pre-built binaries are available in the `builds/` folder.
    ```
 2. **Copy the pre-built file** from the `builds/` folder:
 
-   * **Windows**: `builds/voice.node`
-   * **macOS/Linux**: `builds/libopus.so` (or the appropriate library file)
+   * `builds/discord_voice.node`
 3. **Locate your Discord installation** path:
 
-   * **Windows**: `%LOCALAPPDATA%\Discord\app-<version>\modules\discord_voice`
-   * **macOS**: `~/Applications/Discord.app/Contents/Resources/modules/discord_voice`
-   * **Linux**: `/usr/share/discord/modules/discord_voice`
-4. **Replace** the original voice module file with the modded version you copied.
+   ```
+   %LOCALAPPDATA%\Discord\app-<version>\modules\discord_voice
+   ```
+4. **Replace** the original `discord_voice.node` with the modded version.
 5. **Restart** Discord.
 
 ---
 
 ## 🚀 Usage
 
-Simply launch Discord and enjoy enhanced stereo audio.
+Launch Discord and enjoy enhanced stereo audio.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions and pull requests are welcome! Please open an issue or submit a PR with your suggestions.
+Contributions and pull requests are welcome! Open an issue or submit a PR with your suggestions.
 
 ---
 
